@@ -70,6 +70,34 @@ mailid1 - vikrant486@mail.com
 mailid2 - ikarankhatik@gmail.com
 
 #Screen Shot of the Project
+Landing Page 
+![image](https://user-images.githubusercontent.com/100562135/228593761-6f2b1cf4-1aaf-4086-84d9-591867281577.png)
+![image](https://user-images.githubusercontent.com/100562135/228594997-b747f298-8a85-4e07-887c-f99f9d6392b2.png)
+
+Login form 
+![image](https://user-images.githubusercontent.com/100562135/228595487-809fc749-5aa4-4514-9045-dc2bd25c8e6f.png)
+
+sign up page
+![image](https://user-images.githubusercontent.com/100562135/228596057-d1e8b8e9-bef1-4d16-aeec-14fafe2b555b.png)
+
+Customer After Login
+![image](https://user-images.githubusercontent.com/100562135/228597445-1ea8adec-efbc-49f1-ac6d-9400d9c392f0.png)
+
+Customer Profile
+![image](https://user-images.githubusercontent.com/100562135/228597743-f7bd9e75-4580-4146-ae9e-21b5667651ae.png)
+
+Customer Payment
+![image](https://user-images.githubusercontent.com/100562135/228599205-add39922-be1a-4172-9ef7-6d5fbfd25c86.png)
+
+
+Selller After Login
+![image](https://user-images.githubusercontent.com/100562135/228598132-7b897ce1-cc1a-46a7-b169-6e1e219d851e.png)
+
+Seller Profile
+![image](https://user-images.githubusercontent.com/100562135/228598315-7fbb5979-54c2-47d6-8bcc-6728ae98ef0b.png)
+
+Seller Orders
+![image](https://user-images.githubusercontent.com/100562135/228598537-b97cefb1-e8ca-4a20-964f-70908a9df61e.png)
 
 
 
