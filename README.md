@@ -3,11 +3,11 @@ MERN STACK PROJECT
 **#Project Title**
 ##Tiifin Seervice Web application
 
-**#Project Description**
-####The Main aim of this application is to provide the platform between the tiffin seller who want to sell Tiffin, and
+#**Project Description**
+The Main aim of this application is to provide the platform between the tiffin seller who want to sell Tiffin, and
 the customer who wants to buy Tiffin to their nearest tiffin service.
 
-**#Getting Started**
+#**Getting Started**
 Before you can run the online Tiffin Service Web application, there are a few steps you'll need to complete. 
 Here's what you need to do:
 
